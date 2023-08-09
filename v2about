@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<!-- Same header code as index.html -->
+
+<body>
+
+  <!-- Same nav code as index.html -->
+
+  <section id="about">
+    <!-- About page content -->
+  </section>
+
+</body>
+</html>
