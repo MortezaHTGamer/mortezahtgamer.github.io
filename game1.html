@@ -1,13 +1,11 @@
-// game1/index.html
+<!DOCTYPE html>
+<html>
+<!-- page content -->
 
-async function fetchProxy() {
+<script>
+  // Fetch proxy call
+  fetch('/workerscript?url=okt2w.tmbax300.workers.dev') 
+</script>
 
-  let resp = await fetch('https://example.workers.dev?url=okt2w.tmbax300.workers.dev');
-
-  let data = await resp.text();
-
-  document.getElementById('app').innerHTML = data;
-
-}
-
-fetchProxy();
+</body>
+</html>
